@@ -39,6 +39,7 @@ def getThumbnailUrl(path):
     else:
         return "Assets/" + path + "/thumbnail.png"
 
+#Todo, check if exists
 for name in os.listdir("Assets"):
 
     asset = {}
