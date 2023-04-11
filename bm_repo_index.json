@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Plaster - White",
+        "repo": "A3D-Blacksmith/BM-Gold",
+        "manifest": {
+            "name": "Plaster - White",
+            "creator": "Naxela",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "material, plaster, white, coloured",
+            "version": "0.01",
+            "website": "",
+            "powerplug": {
+                "mode": "blend",
+                "src": "Plaster - White.blend"
+            }
+        },
+        "creator": "Naxela",
+        "tags": "material, plaster, white, coloured",
+        "realname": "Plaster - White",
+        "category": "Materials",
+        "date": 1681231098.1500616,
+        "size": "227587",
+        "thumbnail": "Assets/Plaster - White/thumbnail.png",
+        "description": "# Plaster - White\nIt's a plaster material, it might be good for white walls"
+    }
+]
