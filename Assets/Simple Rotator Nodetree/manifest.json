@@ -1,0 +1,10 @@
+{
+    "name":"Simple Rotator Nodetree",
+    "creator":"Naxela",
+    "category":"Scripts",
+    "filename":"Assets.zip",
+    "tags":"node, group, tree, script, rotation",
+    "version":"0.01",
+    "website":"", 
+    "powerplug":{"mode":"blend", "src":"Simple-Rotator-Nodetree.blend"}
+}
